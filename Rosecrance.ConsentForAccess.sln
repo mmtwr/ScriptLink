@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rosecrance.Diagnosis.Web", "Rosecrance.ScriptLinkService.Web\Rosecrance.Diagnosis.Web.csproj", "{D5E9E8F3-98E0-4E5A-AF71-548DAC1B0AE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rosecrance.ScriptLinkService.Data", "Rosecrance.ScriptLinkService.Data\Rosecrance.ScriptLinkService.Data.csproj", "{08953F61-7EFC-4F5A-9704-B6CCD55863D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E9E8F3-98E0-4E5A-AF71-548DAC1B0AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E9E8F3-98E0-4E5A-AF71-548DAC1B0AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E9E8F3-98E0-4E5A-AF71-548DAC1B0AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E9E8F3-98E0-4E5A-AF71-548DAC1B0AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08953F61-7EFC-4F5A-9704-B6CCD55863D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08953F61-7EFC-4F5A-9704-B6CCD55863D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08953F61-7EFC-4F5A-9704-B6CCD55863D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08953F61-7EFC-4F5A-9704-B6CCD55863D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF09A427-06AB-4FE2-A8DE-405B29F4387E}
+	EndGlobalSection
+EndGlobal
